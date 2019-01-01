@@ -1,7 +1,8 @@
-# 内推方式： 
+# 内推方式 
 **英文简历**命名为学校+姓名+岗位+毕业时间，发送到meng_fanese@qq.com
 
-以下岗位为19校招全职岗位，更多岗位(20实习)请前往[官网](https://akunacapital.com/careers#careers)查看。
+# 官网投递方式
+校招全职、校招实习、社招都可以直接到[官网](https://akunacapital.com/careers#careers)投递
 
 #  面试流程
 1. 限时线上编程测试
@@ -34,6 +35,8 @@ Akuna Capital 成立于2011年，总部位于芝加哥。七年来，Akuna已经
 
 # 职位介绍
 **所有岗位不要求具备金融背景，入职后会提供培训**
+
+以下岗位为**19校招全职**岗位，更多岗位(20实习、社招)请前往[官网](https://akunacapital.com/careers#careers)查看。
 
 ### 初级C++开发工程师-低延迟交易系统
 
@@ -142,6 +145,6 @@ C++/Python固然重要，计算机网络，算法，系统设计，数据结构�
 
 3. 熟悉 FPGA, Verilog, system Verilog, logiccircuit design, bash, TCL
 ```
----
+
 
 
