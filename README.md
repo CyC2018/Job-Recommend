@@ -9,5 +9,6 @@
 * [微众银行](https://github.com/CyC2018/Job-Recommend/blob/master/infos/微众银行.md)
 * [网易游戏](https://github.com/CyC2018/Job-Recommend/blob/master/infos/网易游戏.md)
 * [网新恒天](https://github.com/CyC2018/Job-Recommend/blob/master/infos/网新恒天.md)
+* [招银网络](https://github.com/CyC2018/Job-Recommend/blob/master/infos/招银网络.md)
 
 未完待续...
