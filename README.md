@@ -1,14 +1,23 @@
-## 内推信息列表
+<img src="assets/logo-字节跳动.png" width="100px">  [字节跳动](infos/字节跳动.md)
 
-* [字节跳动](https://github.com/CyC2018/Job-Recommend/blob/master/infos/字节跳动.md)
-* [akuna](https://github.com/CyC2018/Job-Recommend/blob/master/infos/akuna.md)
-* [顺丰科技](https://github.com/CyC2018/Job-Recommend/blob/master/infos/%E9%A1%BA%E4%B8%B0%E7%A7%91%E6%8A%80.md)
-* [爱奇艺](https://github.com/CyC2018/Job-Recommend/blob/master/infos/%E7%88%B1%E5%A5%87%E8%89%BA.md)
-* [美团外卖](https://github.com/CyC2018/Job-Recommend/blob/master/infos/美团外卖.md)
-* [腾讯](https://github.com/CyC2018/Job-Recommend/blob/master/infos/腾讯.md)
-* [微众银行](https://github.com/CyC2018/Job-Recommend/blob/master/infos/微众银行.md)
-* [网易游戏](https://github.com/CyC2018/Job-Recommend/blob/master/infos/网易游戏.md)
-* [网新恒天](https://github.com/CyC2018/Job-Recommend/blob/master/infos/网新恒天.md)
-* [招银网络](https://github.com/CyC2018/Job-Recommend/blob/master/infos/招银网络.md)
+<img src="assets/logo-akuna.png" width="100px">  [akuna](infos/akuna.md)
+
+<img src="assets/logo-顺丰科技.png" width="100px">  [顺丰科技](infos/顺丰科技.md)
+
+<img src="assets/logo-爱奇艺.png" width="100px">  [爱奇艺](infos/爱奇艺.md)
+
+<img src="assets/logo-美团外卖.png" width="100px">  [美团外卖](infos/美团外卖.md)
+
+<img src="assets/logo-腾讯.png" width="100px">  [腾讯](infos/腾讯.md)
+
+<img src="assets/logo-微众银行.png" width="100px">  [微众银行](infos/微众银行.md)
+
+<img src="assets/logo-网新恒天.png" width="100px">  [网新恒天](infos/网新恒天.md)
+
+<img src="assets/logo-网易游戏.png" width="100px">  [网易游戏](infos/网易游戏.md)
+
+<img src="assets/logo-招银网络.png" width="100px">  [招银网络](infos/招银网络.md)
+
+
 
 未完待续...
