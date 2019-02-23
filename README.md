@@ -2,7 +2,7 @@
 
 <img src="assets/logo-akuna.png" width="100px">  [akuna](infos/akuna.md)
 
-<img src="assets/logo-小马智行 Pony.ai.jpg" width="100px"> [小马智行Pony.ai](infos/小马智行Pony.ai.md)
+<img src="assets/logo-小马智行 Pony.ai.jpg" width="100px"> [小马智行](infos/小马智行Pony.ai.md)
 
 <img src="assets/logo-顺丰科技.png" width="100px">  [顺丰科技](infos/顺丰科技.md)
 
