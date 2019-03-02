@@ -22,4 +22,6 @@
 
 <img src="assets/logo-网新恒天.png" width="100px">  [网新恒天](infos/网新恒天.md)
 
+<img src="assets/logo-虎牙直播.png" width="100px">  [虎牙直播](infos/虎牙直播.md)
+
 未完待续...
