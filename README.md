@@ -1,5 +1,7 @@
 ﻿<img src="assets/logo-字节跳动.png" width="100px">  [字节跳动](infos/字节跳动.md)
 
+<img src="assets/logo-蚂蚁金服.png" width="100px">  [蚂蚁金服](infos/蚂蚁金服.md)
+
 <img src="assets/logo-akuna.png" width="100px">  [akuna](infos/akuna.md)
 
 <img src="assets/logo-小马智行 Pony.ai.jpg" width="100px"> [小马智行](infos/小马智行Pony.ai.md)
