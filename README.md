@@ -26,4 +26,6 @@
 
 <img src="assets/logo-grab.png" width="100px">  [Grab](infos/grab.md)
 
+<img src="assets/logo-shopee.png" width="100px">  [Shopee](infos/Shopee.md)
+
 未完待续...
