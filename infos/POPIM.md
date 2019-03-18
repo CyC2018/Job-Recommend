@@ -60,7 +60,7 @@ POP IM 的创始成员均来自微信核心产品技术团队。你将会和他�
     - Android 工程师
     - QA 工程师
 
-更多职位：[POP IM 招聘](https://jobs.impopper.com)
+更多职位：[POP IM Jobs](https://jobs.impopper.com)
 
 # Q&A
 
