@@ -114,5 +114,11 @@
       <p>POPIM</p>
     </a>
   </td>
+    <td align="center">
+    <a href="infos/虎牙直播.md">
+      <img src="assets/logo-虎牙直播.png" width="140px">
+      <p>虎牙直播</p>
+    </a>
+  </td>
 </table>
 
