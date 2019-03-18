@@ -37,8 +37,7 @@
   </td>
 </tr><tr>
   <td align="center">
-    <a href="infos/Shopee
-.md">
+    <a href="infos/Shopee.md">
       <img src="assets/logo-Shopee.jpg" width="140px">
       <p>Shopee
 </p>
@@ -46,8 +45,7 @@
   </td>
   <td align="center">
     <a href="infos/招银网络.md">
-      <img src="assets/logo-招银网络
-.jpg" width="140px">
+      <img src="assets/logo-招银网络.jpg" width="140px">
       <p>招银网络
 </p>
     </a>
