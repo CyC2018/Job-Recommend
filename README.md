@@ -24,17 +24,17 @@
       <p>小马智行</p>
     </a>
   </td>
-  <td align="center">
-    <a href="infos/Shopee.md">
-      <img src="assets/logo-Shopee.png" width="140px">
-      <p>Shopee</p>
-    </a>
-  </td>
-</tr><tr>
-  <td align="center">
+    <td align="center">
     <a href="infos/顺丰科技.md">
       <img src="assets/logo-顺丰科技.png" width="140px">
       <p>顺丰科技</p>
+    </a>
+  </td>
+  </tr><tr>
+   <td align="center">
+    <a href="infos/Shopee.md">
+      <img src="assets/logo-Shopee.png" width="140px">
+      <p>Shopee</p>
     </a>
   </td>
   <td align="center">
