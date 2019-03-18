@@ -110,7 +110,7 @@
 </tr><tr>
   <td align="center">
     <a href="infos/POPIM.md">
-      <img src="assets/logo-POPIM.png" width="140px">
+      <img src="assets/logo-POPIM.jpg" width="140px">
       <p>POPIM</p>
     </a>
   </td>
