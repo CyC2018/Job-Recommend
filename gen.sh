@@ -15,12 +15,12 @@ for company in `cat company.txt`;do
     let line+=1
     logo="logo-$company.png"
     [[ -f "assets/$logo" ]] || logo="logo-$company.jpg"
-    printf "  <td align=\"center\">\n"
-    printf "    <a href=\"infos/%s.md\">\n" $company
-    printf "      <img src=\"assets/%s\" width=\"140px\">\n" $logo
-    printf "      <p>%s</p>\n" $company
-    printf "    </a>\n"
-    printf "  </td>\n"
+    printf "  <td align=\"center\">\r\n"
+    printf "    <a href=\"infos/%s.md\">\r\n" $company
+    printf "      <img src=\"assets/%s\" width=\"140px\">\r\n" $logo
+    printf "      <p>%s</p>\r\n" $company
+    printf "    </a>\r\n"
+    printf "  </td>\r\n"
 done
 
 echo '</table>'
