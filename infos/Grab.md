@@ -127,7 +127,7 @@ Grab的使命是“Drive Southeast Asia Forward”。为了达成这个使命，
 - ***QQ 群号:884780794***，如果 hr 联系你们或收到系统邮件即为简历通过，其余默认简历没有通过，不要问我（太多人问了回复不过来）
 
 面试准备材料推荐：
-1. ***算法(70%)***： [用 LeetCode 提升算法能力](https://xiaozhuanlan.com/leetcode-to-interview)
+1. ***算法(70%)***： [结构化算法刷题训练指南](https://xiaozhuanlan.com/Lisanaaa)
 2. 其余基础扎实即可，不会问很花哨的东西。
 
 
