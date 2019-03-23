@@ -15,6 +15,13 @@
     </a>
   </td>
   <td align="center">
+    <a href="infos/旷视.md">
+      <img src="assets/logo-旷视.jpeg" width="140px">
+      <p>旷视
+</p>
+    </a>
+  </td>
+  <td align="center">
     <a href="infos/akuna.md">
       <img src="assets/logo-akuna.jpg" width="140px">
       <p>akuna
