@@ -23,7 +23,7 @@
   </td>
   <td align="center">
     <a href="infos/akuna.md">
-      <img src="assets/logo-akuna.jpg" width="140px">
+      <img src="assets/logo-akuna.png" width="140px">
       <p>akuna
 </p>
     </a>
