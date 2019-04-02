@@ -101,6 +101,12 @@
     </a>
   </td>
 </tr><tr>
+  <td align="center">
+    <a href="infos/Sophon Tech.md">
+      <img src="assets/logo-Sophon Tech.jpg" width="140px">
+      <p>Sophon Tech</p>
+    </a>
+  </td>
     <td align="center">
     <a href="infos/旷视.md">
       <img src="assets/logo-旷视.jpeg" width="140px">
