@@ -2,7 +2,7 @@
 
 ## 内推方式
 
-校招 & 社招
+**社招**
 
 发送个人简历到 [shaun.fu@shopee.com](mailto:shaun.fu@shopee.com?subject=[Resume]YourName@Position)
 
