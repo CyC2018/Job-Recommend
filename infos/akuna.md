@@ -122,7 +122,7 @@ C++/Python固然重要，计算机网络，算法，系统设计，数据结构�
 ```
   ---
 
-### FPGA开发工程师—低延迟交易系统（19届校招,20届暑期实习）
+### FPGA开发工程师—低延迟交易系统（19届校招）
 
 技术点：FPGA,Verilog, system Verilog, logic circuit design, bash, TCL
 
