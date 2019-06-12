@@ -132,5 +132,12 @@
       <p>曹操出行(曹操专车)</p>
     </a>
   </td>
+  </tr><tr>
+  </td>
+    <td align="center">
+    <a href="infos/PayPal.md">
+     <img src="assets/paypal-logo.jpg" width="140px">
+     <p>PayPal</p>
+    </a>
+  </td>
 </table>
-
