@@ -138,6 +138,6 @@
   </td>
 </tr><tr>
   <td align="center">
-    <a href="infos/Sophon Tech.md">
+    <a href="infos/PayPal.md">
       <img src="assets/logo-Sophon Tech.jpg" width="140px">
-      <p>Sophon Tech</p>
+      <p>PayPal</p>
