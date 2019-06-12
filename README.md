@@ -132,12 +132,11 @@
       <p>曹操出行(曹操专车)</p>
     </a>
   </td>
-</table>
-</p>
+  </td>
+    <td align="center">
+    <a href="infos/PayPal.md">
+      <img src="assets/logo-曹操出行.png" width="140px">
+      <p>PayPal</p>
     </a>
   </td>
-</tr><tr>
-  <td align="center">
-    <a href="infos/PayPal.md">
-      <img src="assets/logo-Sophon Tech.jpg" width="140px">
-      <p>PayPal</p>
+</table>
