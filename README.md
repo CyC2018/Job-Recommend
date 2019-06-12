@@ -133,4 +133,11 @@
     </a>
   </td>
 </table>
-
+</p>
+    </a>
+  </td>
+</tr><tr>
+  <td align="center">
+    <a href="infos/Sophon Tech.md">
+      <img src="assets/logo-Sophon Tech.jpg" width="140px">
+      <p>Sophon Tech</p>
