@@ -135,7 +135,7 @@
   </td>
     <td align="center">
     <a href="infos/PayPal.md">
-      <img src="assets/logo-曹操出行.png" width="140px">
+      <img src="assets/paypal-logo.png" width="140px">
       <p>PayPal</p>
     </a>
   </td>
