@@ -1,7 +1,7 @@
 <table align="center">
 </tr><tr>
   <td align="center">
-    <!-- <a href="infos/字节跳动.md"> -->
+    <a href="infos/字节跳动-社招.md">
       <img src="assets/logo-字节跳动.jpg" width="140px">
       <p>字节跳动</p>
     </a>
@@ -12,11 +12,11 @@
       <p>蚂蚁金服</p>
     </a>
   </td>
-  <td align="center">
-    <a href="infos/akuna.md">
-      <img src="assets/logo-akuna.jpg" width="140px">
-      <p>akuna
-</p>
+  </td>
+    <td align="center">
+    <a href="infos/PayPal.md">
+     <img src="assets/paypal-logo.jpg" width="140px">
+     <p>PayPal</p>
     </a>
   </td>
   <td align="center">
@@ -133,11 +133,4 @@
     </a>
   </td>
   </tr><tr>
-  </td>
-    <td align="center">
-    <a href="infos/PayPal.md">
-     <img src="assets/paypal-logo.jpg" width="140px">
-     <p>PayPal</p>
-    </a>
-  </td>
 </table>
