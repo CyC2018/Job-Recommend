@@ -132,5 +132,12 @@
       <p>曹操出行(曹操专车)</p>
     </a>
   </td>
+  </td>
+    <td align="center">
+    <a href="infos/Bigo.md">
+      <img src="assets/logo-Bigo.png" width="140px">
+      <p>Bigo</p>
+    </a>
+  </td>
   </tr><tr>
 </table>
