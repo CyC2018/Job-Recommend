@@ -2,11 +2,11 @@
 
 ## 内推方式
 
-**社招**
+**社招** & **校招** Base Singapore
 
 发送个人简历到 [shaun.fu@shopee.com](mailto:shaun.fu@shopee.com?subject=[Resume]YourName@Position)
 
-简历最好用英文哈, thanks!
+简历要用英文哈, thanks!
 
 ## 面试流程
 
@@ -18,23 +18,39 @@
 
 技术岗位看这里：
 
-- Software Engineer: Server [details](https://careers.shopee.com/jobs?country_id=1&dept_id=109&level=204&name=server&limit=20&offset=0)
-- Software Engineer: TechOps/DevOps [details](https://careers.shopee.com/jobs?country_id=1&dept_id=109&level=204&name=devops&limit=20&offset=0)
-- Software Engineer: Platform Engineering [details](https://careers.shopee.com/jobs?country_id=1&dept_id=109&level=204&name=platform&limit=20&offset=0)
-- Software Engineer: Web Backend [details](https://careers.shopee.com/jobs?country_id=1&dept_id=109&level=204&name=backend&limit=20&offset=0)
-- Database Engineer [details](https://careers.shopee.com/jobs?country_id=1&dept_id=109&level=204&name=database&limit=20&offset=0)
-- Automation QA Engineer [details](https://careers.shopee.com/jobs?country_id=1&dept_id=109&level=204&name=automation&limit=20&offset=0)
-- Software Engineer: Web Frontend [details](https://careers.shopee.com/jobs?country_id=1&dept_id=109&level=204&name=frontend&limit=20&offset=0)
-- Software Engineer: Mobile App [details](https://careers.shopee.com/jobs?country_id=1&dept_id=109&level=204&name=mobile%20app&limit=20&offset=0)
-- Software Engineer: Machine Learning [details](https://careers.shopee.sg/jobs/?country_id=1&dept_id=109&name=machine%20learning&limit=20&offset=0)
-- Data Engineer [details](http://careers.shopee.com/jobs?country_id=1&name=data%20engineer&limit=20&offset=0)
-- Full-stack Web Developer [details](http://careers.shopee.com/jobs?country_id=1&name=full-stack&limit=20&offset=0)
-- Data Scientist [details](http://careers.shopee.com/jobs?country_id=1&name=data%20scientist&limit=20&offset=0)
-- Data Science team - Machine Learning Engineer [details](https://careers.shopee.sg/jobs/?country_id=1&dept_id=103&level=204&name=machine&limit=20&offset=0)
-- BI Senior Solutions Analyst [details](http://careers.shopee.com/jobs?country_id=1&name=senior%20solutions&limit=20&offset=0)
-- Senior Data Analyst [details](https://careers.shopee.sg/jobs/?country_id=1&dept_id=103&name=senior%20data%20analyst&limit=20&offset=0)
-- Data Analyst [details](https://careers.shopee.sg/jobs/?country_id=1&dept_id=103&name=data%20analyst&limit=20&offset=0)
-- Production Support Associate [details](https://careers.shopee.sg/jobs/?country_id=1&name=production%20support&limit=20&offset=0)
+- **Software Engineer 2020 Campus Graduates** -> [details](https://careers.shopee.sg/job-detail/2100)
+- Software Engineer: Web Backend -> [details](https://careers.shopee.com/jobs?country_id=1&dept_id=109&level=204&name=backend&limit=20&offset=0)
+- Software Engineer: Web Frontend -> [details](https://careers.shopee.com/jobs?country_id=1&dept_id=109&level=204&name=frontend&limit=20&offset=0)
+- Software Engineer: Server -> [details](https://careers.shopee.com/jobs?country_id=1&dept_id=109&level=204&name=server&limit=20&offset=0)
+- Software Engineer: Machine Learning -> [details](https://careers.shopee.sg/jobs/?country_id=1&dept_id=109&name=machine%20learning&limit=20&offset=0)
+- Software Engineer: Machine Learning (Research background) -> [details](https://careers.shopee.sg/jobs/?country_id=1&dept_id=109&name=research&limit=20&offset=0)
+- Software Engineer: TechOps/DevOps -> [details](https://careers.shopee.com/jobs?country_id=1&dept_id=109&level=204&name=devops&limit=20&offset=0)
+- Software Engineer: Platform Engineering -> [details](https://careers.shopee.com/jobs?country_id=1&dept_id=109&level=204&name=platform&limit=20&offset=0)
+- Database Engineer -> [details](https://careers.shopee.com/jobs?country_id=1&dept_id=109&level=204&name=database&limit=20&offset=0)
+- Software Engineer: Frontend (Mobile App) -> [details](https://careers.shopee.sg/job-detail/1465)
+- Software Engineer: Mobile App - iOS -> [details](https://careers.shopee.sg/job-detail/1461)
+- Software Engineer: Mobile App - Android -> [details](https://careers.shopee.sg/job-detail/2106)
+- Data Product - Data Engineer -> [details](http://careers.shopee.com/jobs?country_id=1&name=data%20engineer&limit=20&offset=0)
+- Data Product - Front-end Engineer (Internal Data Platform) -> [details](https://careers.shopee.sg/job-detail/2104)
+- Data Product - Back-end Engineer (JAVA) -> [details](https://careers.shopee.sg/job-detail/2105)
+- Data Product - Front-end Tech Leader (Internal Data Platform) -> [details](https://careers.shopee.sg/job-detail/2106)
+- Data Product - Back-end Tech Leader (JAVA) -> [details](https://careers.shopee.sg/job-detail/2107)
+
+产品岗位看这里：
+
+- Product Management - Fraud/Risk Control -> [details](https://boards.greenhouse.io/shopee/jobs/4049887002)
+- Product Management - Consumer, Product & Technology -> [details](https://boards.greenhouse.io/shopee/jobs/4050275002)
+- Product Management - Order, Consumer Experience & Platform -> [details](https://boards.greenhouse.io/shopee/jobs/4255398002)
+- Product Management - Data Products -> [details](https://boards.greenhouse.io/shopee/jobs/4243911002)
+- Product Management - Search -> [details](https://boards.greenhouse.io/shopee/jobs/4024219002)
+- Product Management - Recommendation -> [details](https://boards.greenhouse.io/shopee/jobs/4049542002)
+- Product Management - Payment -> [details](https://boards.greenhouse.io/shopee/jobs/4056941002)
+- Product Management - Advertising -> [details](https://boards.greenhouse.io/shopee/jobs/4231600002)
+- Product Management - Marketing/Promotion -> [details](https://boards.greenhouse.io/shopee/jobs/4049840002)
+- Business Product Management - Advertising -> [details](https://boards.greenhouse.io/shopee/jobs/4301665002)
+- Business Product Management - Supply Chain -> [details](https://boards.greenhouse.io/shopee/jobs/4037821002)
+- Business Product Management - Seller Service -> [details](https://boards.greenhouse.io/shopee/jobs/4193467002)
+- Country Product Management -> [details](https://boards.greenhouse.io/shopee/jobs/4024221002)
 
 更多岗位看这里： [https://careers.shopee.sg](https://careers.shopee.sg/jobs/?country_id=1&dept_id=109&limit=20&offset=0)
 
