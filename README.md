@@ -133,4 +133,12 @@
     </a>
   </td>
   </tr><tr>
+  </td>
+    <td align="center">
+    <a href="infos/Bigo.md">
+      <img src="assets/logo-Bigo.jpg" width="140px">
+      <p>Bigo</p>
+    </a>
+  </td>
+  </tr><tr>
 </table>
