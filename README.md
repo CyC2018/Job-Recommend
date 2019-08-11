@@ -133,4 +133,11 @@
     </a>
   </td>
   </tr><tr>
+  </td>
+    <td align="center">
+    <a href="infos/4399游戏.md">
+      <img src="assets/logo-4399游戏.png" width="140px">
+      <p>4399游戏</p>
+    </a>
+  </td>
 </table>
