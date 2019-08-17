@@ -146,4 +146,12 @@
       <p>三七互娱</p>
     </a>
   </td>
+</td>
+    <td align="center">
+    <a href="infos/keep.md">
+      <img src="assets/logo-keep.jpg" width="140px">
+      <p>Keep</p>
+    </a>
+  </td>
 </table>
+
