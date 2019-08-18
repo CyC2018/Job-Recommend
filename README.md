@@ -146,4 +146,11 @@
       <p>三七互娱</p>
     </a>
   </td>
+  </td>
+    <td align="center">
+    <a href="infos/依图科技.md">
+      <img src="assets/logo-依图科技.jpg" width="140px">
+      <p>依图科技</p>
+    </a>
+  </td>
 </table>
