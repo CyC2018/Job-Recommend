@@ -133,4 +133,23 @@
     </a>
   </td>
   </tr><tr>
+  </td>
+    <td align="center">
+    <a href="infos/4399游戏.md">
+      <img src="assets/logo-4399游戏.png" width="140px">
+      <p>4399游戏</p>
+    </a>
+  </td>
+    <td align="center">
+    <a href="infos/三七互娱.md">
+      <img src="assets/logo-三七互娱.png" width="140px">
+      <p>三七互娱</p>
+    </a>
+  </td>
+    <td align="center">
+    <a href="infos/涂鸦科技.md">
+      <img src="assets/logo-涂鸦科技.png" width="140px">
+      <p>涂鸦科技</p>
+    </a>
+  </td>
 </table>
