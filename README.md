@@ -146,4 +146,11 @@
       <p>三七互娱</p>
     </a>
   </td>
+  </td>
+    <td align="center">
+    <a href="infos/阿里巴巴.md">
+      <img src="assets/logo-阿里巴巴.jpeg" width="140px">
+      <p>阿里巴巴</p>
+    </a>
+  </td>
 </table>
