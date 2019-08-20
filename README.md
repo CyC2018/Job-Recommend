@@ -125,7 +125,6 @@
       <p>虎牙</p>
     </a>
   </td>
-  </td>
     <td align="center">
     <a href="infos/曹操出行.md">
       <img src="assets/logo-曹操出行.png" width="140px">
@@ -133,7 +132,6 @@
     </a>
   </td>
   </tr><tr>
-  </td>
     <td align="center">
     <a href="infos/4399游戏.md">
       <img src="assets/logo-4399游戏.png" width="140px">
@@ -146,11 +144,16 @@
       <p>三七互娱</p>
     </a>
   </td>
-  </td>
     <td align="center">
     <a href="infos/依图科技.md">
       <img src="assets/logo-依图科技.jpg" width="140px">
       <p>依图科技</p>
+    </a>
+  </td>
+    <td align="center">
+    <a href="infos/涂鸦科技.md">
+      <img src="assets/logo-涂鸦科技.png" width="140px">
+      <p>涂鸦科技</p>
     </a>
   </td>
 </table>
