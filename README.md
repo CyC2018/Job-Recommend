@@ -153,4 +153,11 @@
       <p>阿里巴巴</p>
     </a>
   </td>
+  </td>
+    <td align="center">
+    <a href="infos/涂鸦科技.md">
+      <img src="assets/logo-涂鸦科技.png" width="140px">
+      <p>涂鸦科技</p>
+    </a>
+  </td>
 </table>
