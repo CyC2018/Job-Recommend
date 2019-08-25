@@ -121,7 +121,7 @@
   </td>
     <td align="center">
     <a href="infos/虎牙.md">
-      <img src="assets/logo-虎牙.png" width="140px">
+      <img src="assets/logo-虎牙.jpg" width="140px">
       <p>虎牙</p>
     </a>
   </td>
