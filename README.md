@@ -164,4 +164,13 @@
       <p>涂鸦科技</p>
     </a>
   </td>
+  </tr>
+  <tr>
+    <td align="center">
+    <a href="infos/快手.md">
+      <img src="assets/logo-kwai.jpg" width="140px">
+      <p>快手</p>
+    </a>
+  </td>
+  </tr>
 </table>
