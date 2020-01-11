@@ -173,7 +173,7 @@
     </a>
   </td>
   <td align="center">
-    <a href="infos/Shopee-sz.md">
+    <a href="infos/Shopee_sz.md">
       <img src="assets/logo-Shopee.jpg" width="140px">
       <p>Shopee Shenzhen</p>
     </a>
