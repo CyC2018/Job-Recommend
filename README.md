@@ -172,5 +172,11 @@
       <p>快手</p>
     </a>
   </td>
+  <td align="center">
+    <a href="infos/Shopee-sz.md">
+      <img src="assets/logo-Shopee.jpg" width="140px">
+      <p>Shopee Shenzhen</p>
+    </a>
+  </td>
   </tr>
 </table>
