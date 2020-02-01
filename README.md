@@ -172,5 +172,11 @@
       <p>快手</p>
     </a>
   </td>
+   <td align="center">
+    <a href="infos/oppo.md">
+      <img src="assets/logo-oppo.jpg" width="140px">
+      <p>oppo</p>
+    </a>
+  </td>
   </tr>
 </table>
