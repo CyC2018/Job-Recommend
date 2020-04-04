@@ -172,5 +172,11 @@
       <p>快手</p>
     </a>
   </td>
+  <td align="center">
+    <a href="infos/阿里巴巴 - 实习校招.md">
+      <img src="assets/logo-阿里巴巴.jpeg" width="140px">
+      <p>阿里巴巴-实习校招</p>
+    </a>
+  </td>
   </tr>
 </table>
