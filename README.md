@@ -136,4 +136,11 @@
       <p>miHoYo</p>
     </a>
   </td>
+  <td align="center">
+    <a href="infos/快手.md">
+      <img src="assets/logo-kwai.jpg" width="140px">
+      <p>快手</p>
+    </a>
+  </td>
+  </tr>
 </table>
