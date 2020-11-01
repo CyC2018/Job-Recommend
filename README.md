@@ -58,9 +58,9 @@
     </a>
   </td>
   <td align="center">
-    <a href="infos/美团外卖.md">
-      <img src="assets/logo-美团外卖.jpg" width="140px">
-      <p>美团外卖
+    <a href="infos/美团点评.md">
+      <img src="assets/logo-美团点评.jpg" width="140px">
+      <p>美团点评
 </p>
     </a>
   </td>
