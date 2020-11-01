@@ -114,9 +114,9 @@
     </a>
   </td>
   <td align="center">
-    <a href="infos/POPIM.md">
-      <img src="assets/logo-POPIM.jpg" width="140px">
-      <p>POPIM</p>
+    <a href="infos/画音.md">
+      <img src="assets/logo-huayinapp.jpg" width="140px">
+      <p>画音</p>
     </a>
   </td>
     <td align="center">
