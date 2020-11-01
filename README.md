@@ -1,7 +1,7 @@
 <table align="center">
 </tr><tr>
   <td align="center">
-    <a href="infos/字节跳动-社招.md">
+    <a href="https://github.com/CyC2018/CS-Notes/blob/master/assets/%E5%86%85%E6%8E%A8.md">
       <img src="assets/logo-字节跳动.jpg" width="140px">
       <p>字节跳动</p>
     </a>
