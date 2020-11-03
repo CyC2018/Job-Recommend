@@ -115,7 +115,7 @@
   </td>
   <td align="center">
     <a href="infos/画音.md">
-      <img src="assets/logo-huayinapp.jpg" width="140px">
+      <img src="assets/logo-huayinapp.png" width="140px">
       <p>画音</p>
     </a>
   </td>
