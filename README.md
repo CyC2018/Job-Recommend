@@ -87,9 +87,9 @@
     </a>
   </td>
   <td align="center">
-    <a href="infos/网新恒天.md">
-      <img src="assets/logo-网新恒天.jpg" width="140px">
-      <p>网新恒天
+    <a href="infos/衡泰软件.md">
+      <img src="assets/logo-衡泰软件.jpg" width="140px">
+      <p>衡泰软件
 </p>
     </a>
   </td>
