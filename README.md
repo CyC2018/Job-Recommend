@@ -178,5 +178,11 @@
       <p>阿里巴巴-实习校招</p>
     </a>
   </td>
+  <td align="center">
+    <a href="infos/mihoyo.md">
+      <img src="assets/logo-mihoyo.png" width="140px">
+      <p>米哈游</p>
+    </a>
+  </td>
   </tr>
 </table>
