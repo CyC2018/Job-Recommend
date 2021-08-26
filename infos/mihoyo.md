@@ -2,7 +2,7 @@
 
 目前海量hc，前端 Golang java android ios 测试 产品 UI 推荐算法 大数据等多岗位大量招募新同学
 
-* 简历发送到[517900017@qq.com](mailto:517900017@qq.com) 发送时请注明校招、社招以及目标岗位
+* 简历发送到[meng.li02@mihoyo.com](mailto:meng.li02@mihoyo.com) 发送时请注明校招、社招以及目标岗位
 * 社招、校招岗位信息入口：[社招、校招岗位信息入口](https://www.mihayo.com/join.html)
 
 # 面试流程
