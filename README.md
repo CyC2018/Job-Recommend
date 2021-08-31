@@ -178,5 +178,11 @@
       <p>阿里巴巴-实习校招</p>
     </a>
   </td>
+  <td align="center">
+    <a href="infos/蚂蚁集团.md">
+      <img src="assets/logo-蚂蚁集团.png" width="140px">
+      <p>蚂蚁集团</p>
+    </a>
+  </td>
   </tr>
 </table>
