@@ -113,12 +113,6 @@
       <p>旷视</p>
     </a>
   </td>
-  <td align="center">
-    <a href="infos/画音.md">
-      <img src="assets/logo-huayinapp.png" width="140px">
-      <p>画音</p>
-    </a>
-  </td>
     <td align="center">
     <a href="infos/虎牙.md">
       <img src="assets/logo-虎牙.jpg" width="140px">
@@ -131,13 +125,14 @@
       <p>曹操出行(曹操专车)</p>
     </a>
   </td>
-  </tr><tr>
-    <td align="center">
+  <td align="center">
     <a href="infos/4399游戏.md">
       <img src="assets/logo-4399游戏.png" width="140px">
       <p>4399游戏</p>
     </a>
   </td>
+  </tr>
+  <tr>
     <td align="center">
     <a href="infos/三七互娱.md">
       <img src="assets/logo-三七互娱.png" width="140px">
@@ -164,14 +159,14 @@
       <p>涂鸦科技</p>
     </a>
   </td>
-  </tr>
-  <tr>
-    <td align="center">
+  <td align="center">
     <a href="infos/快手.md">
       <img src="assets/logo-kwai.jpg" width="140px">
       <p>快手</p>
     </a>
   </td>
+  </tr>
+  <tr>
   <td align="center">
     <a href="infos/阿里巴巴 - 实习校招.md">
       <img src="assets/logo-阿里巴巴.jpeg" width="140px">
