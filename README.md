@@ -178,5 +178,11 @@
       <p>阿里巴巴-实习校招</p>
     </a>
   </td>
+      <td align="center">
+    <a href="infos/armchina.md">
+      <img src="assets/logo-armchina.png" width="140px">
+      <p>arm China</p>
+    </a>
+  </td>
   </tr>
 </table>
