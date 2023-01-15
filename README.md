@@ -178,5 +178,11 @@
       <p>阿里巴巴-实习校招</p>
     </a>
   </td>
+  <td align="center">
+    <a href="infos/agora.md">
+      <img src="assets/logo-agora.png" width="140px">
+      <p>声网Agora</p>
+    </a>
+  </td>
   </tr>
 </table>
